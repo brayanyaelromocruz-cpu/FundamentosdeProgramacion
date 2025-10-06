@@ -46,7 +46,7 @@ print()
 
 numero_secreto = 7
 adivinanza = 0
-while adivinanza != numero_secreto:
+while adivinan za != numero_secreto:
     adivinanza = int(input("Adivina el número (1-10): "))
 print("¡Correcto! El número era", numero_secreto)
 
